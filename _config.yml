@@ -19,9 +19,27 @@ baseurl: # "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://raddaforskolan.se" # "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/", "diverse/"
-]
+exclude:
+  - "script/"
+  - "*.gem"
+  - "*.gemspec"
+  - "bin/"
+  - "CODE_OF_CONDUCT.md"
+  - "diverse/"
+  - "docker-compose.yml"
+  - "Dockerfile"
+  - "docs/tests/"
+  - "Gemfile.lock"
+  - "Gemfile"
+  - "lib/"
+  - "LICENSE.txt"
+  - "Makefile"
+  - "node_modules/"
+  - "package-lock.json"
+  - "package.json"
+  - "Rakefile"
+  - "README.md"
+  - "wget.log"
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
