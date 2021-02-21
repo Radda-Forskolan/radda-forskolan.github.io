@@ -46,3 +46,6 @@ nav_order: 4
 
 ## **2021-02-16** Facebook: Socialdemokraterna Nacka evenemang
   * [Evenemang](https://www.facebook.com/events/856754588515315/)
+
+## **2021-02-18** Nacka Värmdö Posten: Över 400 namn för att rädda förskola
+  * [Inlägg](https://www.nvp.se/Nacka/Nacka/over-400-namn-for-att-radda-forskola)
