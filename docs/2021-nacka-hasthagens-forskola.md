@@ -36,7 +36,7 @@ Renoveringskostnaderna är omotiverat höga och det är inte alla åtgärder som
 
 **Tjänsteskrivelsen berättar också om medarbetarna som har det dåligt. Fast ingen frågade dem, och de håller inte med.** Det är en tajt personalgrupp som trivs bra och gör ALLT för barnen. De har enorm kompetens och satsar mycket på kompetensutveckling. 
 
-Sist men inte minst vill kommunen **flytta barn till en trippel-så-stor förskola med 90+ barn i Sydöstra Plania, ett stort byggnadsområde för den närmaste framtiden. Den nya förskolan drivs i två baracker, en ska rivas och den andra är temporärt uppförd.** Tjänsteskrivelsen berättar ingenting om detta och hur barnen kommer drabbas. De tror att "en större förskola kan även på sikt ge en högre kvalitativ verksamhet med fler jämnåriga kamrater och möjlighet att ta del av fler kompetenser hos olika pedagoger." Så ser inte verkligheten ut. Att barn kan trivas och utvecklas bättre i mindre grupper verkar inte ha nån betydelse.
+Sist men inte minst vill kommunen **flytta barn till en trippel-så-stor förskola med 90+ barn i Sydvästra Plania, ett stort byggnadsområde för den närmaste framtiden. Den nya förskolan drivs i två baracker, en ska rivas och den andra är temporärt uppförd.** Tjänsteskrivelsen berättar ingenting om detta och hur barnen kommer drabbas. De tror att "en större förskola kan även på sikt ge en högre kvalitativ verksamhet med fler jämnåriga kamrater och möjlighet att ta del av fler kompetenser hos olika pedagoger." Så ser inte verkligheten ut. Att barn kan trivas och utvecklas bättre i mindre grupper verkar inte ha nån betydelse.
 
 
 1. TOC
