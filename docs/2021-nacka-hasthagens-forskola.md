@@ -130,3 +130,8 @@ Sist men inte minst vill kommunen **flytta barn till en trippel-så-stor försko
 
 ## **2021-02-22** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2021/2021-02-22/00_KS_protokoll_21-02-22.pdf) ([kopia](./Kommunstyrelsen//2021/2021-02-22/00_KS_protokoll_21-02-22.pdf))
 * obs! filen är inte publicerad än
+
+### Mikael Carlsson (Nackalistan) via mejl
+* "Ja, jag håller helt med dig om att alla nämndsammanträden borde vara öppna för allmänheten att lyssna på. Det är ju ganska grundläggande att höra vad olika politiker säger och vilka argument de använder för att rättfärdiga sina ställningstaganden."
+* "Tyvärr så förlorade vi som kämpade emot en nedläggning med röstsiffrorna 7 för -6 emot. Vi försökte i första hand att beslutet skulle skjutas till kommunfullmäktige så att vi skulle ta en debatt där och att kommuninnevånarna skulle få lyssna på debatten och våra argument vi röstade om det men förlorade 7-6 där hela alliansen (M,Kd,C,L) röstade emot att det skulle tas till fullmäktige."
+* "Både vi från NL och från S argumenterade kring hur tokigt detta beslut är och hur man kan fatta ett beslut på ett så bristfälligt beslutsunderlag, jag sa till och med att även ni som röstar för en nedläggning måste ju medge att detta är ett bristande underlag, den enda som svarade på det var Mats Gerdau som sa att underlaget var tillräckligt för honom iallafall. I övrigt så sa ingen från alliansen något utan meddelade att de skulle lämna in en protokollsanteckning."
