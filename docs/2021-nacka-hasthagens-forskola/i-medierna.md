@@ -14,6 +14,17 @@ nav_order: 4
 * Mats Gerdau (M), kommunstyrelsens ordförande: "Det är alltid tråkigt att behöver lägga ned en verksamhet, men på samma sätt som vi bygger ut förskolor när det blir fler barn så måste man också krympa när det blir färre. Just nu byggs flera nya skolor och förskolor runt om i kommunen, nära där barnen bor, och som tur är så är det mer vanligt förekommande än nedläggningar."
 * "Förslaget om nedläggning tas upp av kommunstyrelsens verksamhetsutskott den 9 februari. Ett slutgiltigt beslut tas sannolikt av kommunstyrelsen den 22 februari."
 
+## **2021-02-04** Facebook: Socialdemokraterna Nacka
+* **2021-02-04** [Inlägg - Khashayar Farmanbar](https://www.facebook.com/khashfarm/posts/2034207733388119)
+* **2021-02-09** [Inlägg - Khashayar Farmanbar](https://www.facebook.com/khashfarm/photos/a.252205741588336/2038270412981851/)
+* **2021-02-10** [Inlägg](https://www.facebook.com/nackasossar/posts/3918968754814411)
+* **2021-02-10** [Inlägg](https://www.facebook.com/nackasossar/posts/3919424551435498)
+* **2021-02-10** [Inlägg - Khashayar Farmanbar](https://www.facebook.com/khashfarm/photos/a.252205741588336/2038982979577261/)
+* **2021-02-16** [Evenemang](https://www.facebook.com/events/856754588515315/)
+* **2021-02-17** [Video](https://www.facebook.com/234842993227024/videos/2187297884735054)
+* **2021-02-18** [Inlägg - Khashayar Farmanbar](https://www.facebook.com/khashfarm/posts/2045605615581664)
+* **2021-02-19** [Inlägg - Khashayar Farmanbar](https://www.facebook.com/khashfarm/posts/2046624388813120)
+
 ## **2021-02-05** Nacka Värmdö Posten: Deras förskolla kan läggas ner.
 * [Framsida](https://etidning.nvp.se/shared/spread/nvp-nacka-2021-02-09-p1/xOHHlrzR)
 * [Sida 4](https://etidning.nvp.se/shared/spread/nvp-nacka-2021-02-09-p4-5/JRK7cn9K)
@@ -40,12 +51,13 @@ nav_order: 4
 ## **2021-02-09** Facebook: Aktuella händelser Nacka.
 * [Inlägg](https://www.facebook.com/groups/1304815996241355/permalink/3763662203690043/)
 
-## **2021-02-10** Facebook: Socialdemokraterna Nacka
-* [Inlägg - Socialdemokraterna Nacka](https://www.facebook.com/nackasossar/posts/3918968754814411)
-* [Inlägg - Socialdemokraterna Nacka](https://www.facebook.com/nackasossar/posts/3919424551435498)
+## **2021-02-15** Facebook: Miljöpartiet Nacka
+* [Inlägg](https://www.facebook.com/mpnacka/posts/10158448970349877)
 
-## **2021-02-16** Facebook: Socialdemokraterna Nacka evenemang
-* [Evenemang](https://www.facebook.com/events/856754588515315/)
+## **2021-02-17** Facebook: Nackalistan
+* **2021-02-17** [Inlägg](https://www.facebook.com/Nackalistan/posts/2843176042604704)
+* **2021-02-17** [Inlägg](https://www.facebook.com/Nackalistan/posts/2843218182600490)
+* **2021-02-18** [Inlägg - YuSie Rundkvist Chou](https://www.facebook.com/yusie.chou/posts/10160754910994829)
 
 ## **2021-02-18** Nacka Värmdö Posten: Över 400 namn för att rädda förskola
 * [Inlägg](https://www.nvp.se/Nacka/Nacka/over-400-namn-for-att-radda-forskola)
