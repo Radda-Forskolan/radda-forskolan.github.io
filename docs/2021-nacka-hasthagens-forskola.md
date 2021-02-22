@@ -126,8 +126,7 @@ Sist men inte minst vill kommunen **flytta barn till en trippel-så-stor försko
 * "Hade jag fått yrka hade jag yrkat bifall till Socialdemokraternas avslagsyrkande och yrkande om att man ska återkomma i ärendet med en plan för renovering av förskolan istället."
 * "Barnunderlaget är tillfälligt bristfälligt för klara den ekonomi som är beslutad. Men vi vet att det inte kommer att dröja många år innan det kommer att finnas än större behov än bara denna förskola. Det är därför ett dåligt ekonomiskt beslut att lägga ner förskolan."
 
-## **2021-02-15** [Kallelse - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2021/2021-02-15/00_Kallelse_KS_2021-02-15.pdf) ([kopia](./Kommunstyrelsen//2021/2021-02-15/00_Kallelse_KS_2021-02-15.pdf))
-* obs! filen är inte publicerad än
+## **2021-02-22** [Kallelse - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2021/2021-02-22/00_Kallelse_KS_2021-02-22.pdf) ([kopia](./Kommunstyrelsen//2021/2021-02-22/00_Kallelse_KS_2021-02-22.pdf))
 
 ## **2021-02-22** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2021/2021-02-22/00_KS_protokoll_21-02-22.pdf) ([kopia](./Kommunstyrelsen//2021/2021-02-22/00_KS_protokoll_21-02-22.pdf))
 * obs! filen är inte publicerad än
