@@ -60,4 +60,8 @@ nav_order: 4
 * **2021-02-18** [Inlägg - YuSie Rundkvist Chou](https://www.facebook.com/yusie.chou/posts/10160754910994829)
 
 ## **2021-02-18** Nacka Värmdö Posten: Över 400 namn för att rädda förskola
+* [Sida 4](https://etidning.nvp.se/shared/spread/nvp-nacka-2021-02-23-p4-5/VvnfxpM0)
 * [Inlägg](https://www.nvp.se/Nacka/Nacka/over-400-namn-for-att-radda-forskola)
+
+## **2021-02-21** Nacka Värmdö Posten: Beslut fattat — förskolan läggs ned
+* [Inlägg](https://www.nvp.se/Nacka/Nacka/beslut-fattat--forskolan-laggs-ned)
