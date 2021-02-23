@@ -5,8 +5,6 @@
 [Liknande fall]({{ site.baseurl }}{% link docs/liknande-fall.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
-## Det 
-
 ## Det slutgiltiga beslutet togs 2021-02-22, Kommunstyrelsens sammanträde
 {: .no_toc }
 
