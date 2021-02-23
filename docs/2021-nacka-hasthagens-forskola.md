@@ -135,3 +135,26 @@ Sist men inte minst vill kommunen **flytta barn till en trippel-så-stor försko
 * "Ja, jag håller helt med dig om att alla nämndsammanträden borde vara öppna för allmänheten att lyssna på. Det är ju ganska grundläggande att höra vad olika politiker säger och vilka argument de använder för att rättfärdiga sina ställningstaganden."
 * "Tyvärr så förlorade vi som kämpade emot en nedläggning med röstsiffrorna 7 för -6 emot. Vi försökte i första hand att beslutet skulle skjutas till kommunfullmäktige så att vi skulle ta en debatt där och att kommuninnevånarna skulle få lyssna på debatten och våra argument vi röstade om det men förlorade 7-6 där hela alliansen (M,Kd,C,L) röstade emot att det skulle tas till fullmäktige."
 * "Både vi från NL och från S argumenterade kring hur tokigt detta beslut är och hur man kan fatta ett beslut på ett så bristfälligt beslutsunderlag, jag sa till och med att även ni som röstar för en nedläggning måste ju medge att detta är ett bristande underlag, den enda som svarade på det var Mats Gerdau som sa att underlaget var tillräckligt för honom iallafall. I övrigt så sa ingen från alliansen något utan meddelade att de skulle lämna in en protokollsanteckning."
+
+
+# Namninsamling - RÄDDA HÄSTHAGENS FÖRSKOLA!
+
+[Vår namninsamling hade 500+ underskrifter innan det slutgiltiga möte.](http://mittskifte.org/petitions/radda-hasthagens-forskola-2)
+
+Stoppa nedläggningen av Hästhagens förskola.
+
+VARFÖR ÄR DET VIKTIGT?
+
+Hästhagens förskola är mycket uppskattad av föräldrar, barn och personal. Förskolan har funnits i området sedan 1968 och är en trygg och bra miljö för barnen med stora ytor för lek och lärande både inne och ute. Läget intill Nacka naturreservat är oslagbart. Det finns plats för cirka 40 barn.
+
+Förskolan hotas nu av nedläggning. Anledningen som anges är att den renovering som man anser är nödvändig blir för dyr i förhållande till det prognostiserade barnantalet. Att kommunen nu påstår att förskolan har, och kommer att ha, för få elever är märkligt. Det har aldrig tidigare flaggats för att verksamheten inte går runt, även om storleken på barngrupperna alltid har varierat över tid. Tvärtom har det tidigare funnits förslag på att bygga en ännu större förskola i Hästhagen. Därtill är det uppenbart att den kraftigt ökade byggnationen i Sickla innebär att det kommer finnas ett behov av fler förskolor. Det närmaste alternativet är föräldrakooperativet Blåbäret som i dagsläget inte har några lediga platser och 25 barn i kö. Optimus i Järla sjö har ca 130 barn i kö och Universum har ca 70 barn som väntar plats.
+
+Beslutsunderlaget är bristfälligt på ett flertal punkter och reflekterar inte verkligheten. De uppskattade renoveringskostnaderna är omotiverat höga och allt behöver inte göras på en gång. Vi ser flera pragmatiska förslag på hur en renovering skulle kunna genomföras till en lägre kostnad och över en längre tid.
+
+Det är inte rimligt att alla Nackas barn ska samlas på stora förskolor med hundra barn eller fler, i centrala lägen med små gårdar. Mindre förskolor med närhet till våra bostadsområden måste också kunna få finnas kvar. Det är en fråga om prioritering och vi anser att Nackas barn är värda det samt att föräldrar måste ha möjlighet att välja vilken förskola som passar deras barn bäst.
+
+I samband med nedläggningen erbjuds våra barn istället en plats på Växthusets förskola i Sickla men de lokalerna finns inte med i inriktningsbeslutet av nybyggnationen av området. Det innebär sannolikt att våra barn kommer att behöva byta förskola ytterligare en gång. Det kan vi inte acceptera. Nackaborna fick i år en skattesänkning som gör mycket liten skillnad för varje enskild person men på samhällsnivå kan pengarna göra stor skillnad för att säkra våra barns framtid och bevara bra och trygga förskolor och skolor.
+
+Vi som skriver under vill att förslaget om nedläggningen av Hästhagens förskola ska stoppas. Namninsamlingen kommer att lämnas in till kommunstyrelsen i Nacka kommun på måndag den 22 februari innan kommunstyrelsemötet där beslut om förskolans framtid kommer tas.
+
+/Föräldrar på Hästhagens förskola
