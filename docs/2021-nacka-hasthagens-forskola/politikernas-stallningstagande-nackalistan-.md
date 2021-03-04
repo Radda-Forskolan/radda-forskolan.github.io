@@ -4,18 +4,18 @@
 
 * "vi i oppositionen fick reda på detta i tisdags och vi har tidigare inte fått någon information om förskolan i nämnden alls"
 
-### Mikael Carlsson (Nackalistan), **2021-02-09** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2021/2021-02-09/00_Protokoll_KSVU_2021-02-09.pdf)
+### Mikael Carlsson (Nackalistan), **2021-02-09** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2021/2021-02-09/00_Protokoll_KSVU_2021-02-09.pdf)
 
-* "Grunden för ställningstagandet var det mycket tunna och bristfälliga underlaget."
-* "Varför har kommunen inte underhållit fastigheten löpande som alla fastighetsägare behöver göra för att slippa att plötsligt ställas inför beslut om nedläggning?"
-* "Vad är det ekonomiska och praktiska underlaget på de mycket höga kostnaderna för t ex renovering av kök och andra ställen?"
-* "Varför har det inte gjorts en löpande underhållsplan av fastigheten över tid?"
-* "Varför får allmänheten och närmast berörd personal, barn och föräldrar inte veta om planen i god tid?"
-* "Varför görs inte insatser i tid så att en uppskattad och älskad förskola får vara kvar?"
-* "Varför gjordes inte insatser i tid av utbildningsförvaltningen för att förbättra läget?"
-* "Hur rimmar förslaget med mångfalds- och öppenhetsprincipen, också vad gäller förskoleverksamheten?"
-* "Sist men inte minst, den demokratiska aspekten i hanteringen av ärendet med tydlighet, transparens, information i tid mm och medborgarens och oppositionspolitikens möjligheter att agera har åsidosatts."
-* "Nackalistan känner igen mönstret från avvecklingen av Fisksätra skola som gick till på liknande sätt."
+* "Grunden för ställningstagandet var det mycket tunna och bristfälliga underlaget."
+* "Varför har kommunen inte underhållit fastigheten löpande som alla fastighetsägare behöver göra för att slippa att plötsligt ställas inför beslut om nedläggning?"
+* "Vad är det ekonomiska och praktiska underlaget på de mycket höga kostnaderna för t ex renovering av kök och andra ställen?"
+* "Varför har det inte gjorts en löpande underhållsplan av fastigheten över tid?"
+* "Varför får allmänheten och närmast berörd personal, barn och föräldrar inte veta om planen i god tid?"
+* "Varför görs inte insatser i tid så att en uppskattad och älskad förskola får vara kvar?"
+* "Varför gjordes inte insatser i tid av utbildningsförvaltningen för att förbättra läget?"
+* "Hur rimmar förslaget med mångfalds- och öppenhetsprincipen, också vad gäller förskoleverksamheten?"
+* "Sist men inte minst, den demokratiska aspekten i hanteringen av ärendet med tydlighet, transparens, information i tid mm och medborgarens och oppositionspolitikens möjligheter att agera har åsidosatts."
+* "Nackalistan känner igen mönstret från avvecklingen av Fisksätra skola som gick till på liknande sätt."
 
 ### Mikael Carlsson (Nackalistan), **2021-02-09** via mejl
 
@@ -33,6 +33,6 @@
 
 ---
 
-### Mikael Carlsson (Nackalistan) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
+### Mikael Carlsson (Nackalistan) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen/2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
 
-* "Vi politiker ska kunna lita på riktigheten i tjänstehandlingars objektivitet och fakta som presenteras för att fatta riktiga och väl avvägda beslut. Där slirar man i Nacka mer än en gång."
+* "Vi politiker ska kunna lita på riktigheten i tjänstehandlingars objektivitet och fakta som presenteras för att fatta riktiga och väl avvägda beslut. Där slirar man i Nacka mer än en gång."

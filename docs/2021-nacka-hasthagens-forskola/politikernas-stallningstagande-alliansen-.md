@@ -7,7 +7,7 @@
 kommentar AN:  
 Det finns många sätt att försöka bagatellisera ett bristfälligt underlag. Kommunstyrelsens ordförande har hittat ett sätt. Och det är inte den första gången. Historien upprepar sig.  
 .  
-Tex Ringgårdens förskolas avvecklades 2018. Förslaget påstod att det fanns för många platser i Saltsjöbaden än vad barnantalet motiverar. Men i 2021, ingen förskola i Saltjsöbaden har plats direkt och många har långa köer, trots att en förskola ökade kapaciteteten. Ringgårdens förskolas lokal var "ett gammalt hus som från början inte var anpassat för förskoleverksamhet", med en vattenskada och saknade "ett kök som är tillräckligt stort för att tillaga mat till barnen och medarbetare".  
+Tex Ringgårdens förskolas avvecklades 2018. Förslaget påstod att det fanns för många platser i Saltsjöbaden än vad barnantalet motiverar. Men i 2021, ingen förskola i Saltjsöbaden har plats direkt och många har långa köer, trots att en förskola ökade kapaciteteten. Ringgårdens förskolas lokal var "ett gammalt hus som från början inte var anpassat för förskoleverksamhet", med en vattenskada och saknade "ett kök som är tillräckligt stort för att tillaga mat till barnen och medarbetare".  
 .  
 Men det var helt ok för Da Vinciförskolan Pärlan (fristående) att ta över, renovera lokalen, göra dem "stora investeringar" och öka förskoleplatserna med 20 st (Ringgårdens förskola hade 23 barn!).  
 .  
@@ -25,18 +25,18 @@ Med all respekt, kommunstyrelsens ordförande förolämpar vår intellekt och v�
 **Det sura äpplet för alla som drabbas är att uppleva faktiskt hur kommunen styrs - falska förevändningar, brist på öppenhet, och ingen dialog. [Vi är cirka 105 000 Nackabor (tre av fyra röstberättigade)](https://www.nacka.se/kommun--politik/ekonomi-och-statistik/statistik/), med cirka 100 kommunfullmäktige. Om alla röstberättigade skulle skicka ett mejl varje år, skulle varje företrädare ha 3 meddelanden varje dag att svara på. 3! Aldrig hade jag skickat ett mejl till en företrädare i mina 10 år i Nacka. [Nu fick jag inte ens en bekräftelse, ingenting alls, när en förskoleverksamhet läggs ned och barn drabbas!]({{ site.baseurl }}{% link docs/2021-nacka-hasthagens-forskola/svar-fran-politiker-i-verksamhetsutskott.md %}).***
 {: .label .label-yellow }
 
-### Karin Teljstedt (KD), **2021-02-09** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2021/2021-02-09/00_Protokoll_KSVU_2021-02-09.pdf)
+### Karin Teljstedt (KD), **2021-02-09** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2021/2021-02-09/00_Protokoll_KSVU_2021-02-09.pdf)
 
-* "Kristdemokraterna vill tydligt markera att vårt argument för att lägga ner förskolan inte handlar om att enheten är för liten."
-* "Det måste finnas, och det finns också, små förskolor som håller mycket hög kvalitet."
-* "Ska kommunen kunna möta människors olika behov så är det helt nödvändigt att det även finns små förskolor, eftersom alla barn varken trivs i eller utvecklas väl i stora grupper."
+* "Kristdemokraterna vill tydligt markera att vårt argument för att lägga ner förskolan inte handlar om att enheten är för liten."
+* "Det måste finnas, och det finns också, små förskolor som håller mycket hög kvalitet."
+* "Ska kommunen kunna möta människors olika behov så är det helt nödvändigt att det även finns små förskolor, eftersom alla barn varken trivs i eller utvecklas väl i stora grupper."
 
 kommentar AN:  
 **Men vad är ert argument då?!**  
 .  
 Sen 2018 har KD röstat för att **bifalla alla förslag att lägga ner små förskolor i Nacka**, alla med bristfälliga underlag.  
 .  
-Enligt [Tjänsteskrivelse KFKS 2019/410: Kapacitet Välfärd skola 2019-2020](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2019/2019-05-14/07_Kapacitet_Välfärd_skola/07a_Kapacitet_Välfärd_skola_2019-2020_tjskr.pdf), efter Hästhagens förskola (37 platser) läggs ner kommer det finnas bara Optimus (35 platser) och Älta Gårds (49) som är "små" förskolor. **Alla andra har 55+ platser dvs 4+ avdelningar - de är inga små förskolor!**  
+Enligt [Tjänsteskrivelse KFKS 2019/410: Kapacitet Välfärd skola 2019-2020](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2019/2019-05-14/07_Kapacitet_Välfärd_skola/07a_Kapacitet_Välfärd_skola_2019-2020_tjskr.pdf), efter Hästhagens förskola (37 platser) läggs ner kommer det finnas bara Optimus (35 platser) och Älta Gårds (49) som är "små" förskolor. **Alla andra har 55+ platser dvs 4+ avdelningar - de är inga små förskolor!**  
 .  
 Dessutom har Nacka för stora barngrupper enligt [Skolverket riktmärken](https://www.lararforbundet.se/artikelsidor/barngrupperna-ar-fortfarande-for-stora).  
 **I Nacka är 62 procent av de åldersindelade barngrupperna större än de borde vara.**. Under 2019 hade 28 procent av personalen i Nackas förskolor förskollärarexamen. Det är betydligt färre än i riket som helhet (40 procent), enligt [Lärarförbundet](https://www.lararforbundet.se/artikelsidor/hur-stora-ar-barngrupperna-i-din-kommun?region=nacka-kommun). [Barnen i Nacka har för liten lekyta på förskolegårdarna och alla nya förskolor har betydligt mindre än rekommenderat.](https://www.mitti.se/nyheter/barnen-i-nacka-har-for-liten-lekyta-pa-forskolegardarna/lmtfa!8534653/)  
@@ -58,18 +58,18 @@ Centerpartiets syn sammanfattat: för att spara några öre per invånare i skat
 
 ---
 
-### Hans Peters (C) om Ringgårdens förskolas avveckling, **2018-06-04** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2018/KS_2018-06-04/00_Protokoll_KS_2018-06-04.pdf)
+### Hans Peters (C) om Ringgårdens förskolas avveckling, **2018-06-04** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen/2018/KS_2018-06-04/00_Protokoll_KS_2018-06-04.pdf)
 
-* "Det bör finnas möjligheter även för kommunalt drivna förskolor att bedriva sin verksamhet i mindre enheter. Det är inte alltid det mest optimala med förskolor som har 6-10 avdelningar. Stora förskolor har inte alltid bättre pedagogisk verksamhet, så som framförs i en del sammanhang."
+* "Det bör finnas möjligheter även för kommunalt drivna förskolor att bedriva sin verksamhet i mindre enheter. Det är inte alltid det mest optimala med förskolor som har 6-10 avdelningar. Stora förskolor har inte alltid bättre pedagogisk verksamhet, så som framförs i en del sammanhang."
 
 kommentar AN:  
 **Men vad har ni gjort sen 2018 för att de ska finnas kvar?!** C vill bara tjäna poäng precis som KD: påstå att man vill ha små förskolor kvar, utan att nämna att man är helt emot stöd och möjlighet att påverka nedläggningen.
 {: .label .label-yellow }
 
-### Mats Gerdau (L), Hans Peters (C), Karin Teljstedt (KD), Monica Brohede Tellström (L) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
+### Mats Gerdau (L), Hans Peters (C), Karin Teljstedt (KD), Monica Brohede Tellström (L) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen/2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
 
-* "Det är aldrig roligt att behöva lägga ned en skola."
-* "Oppositionen har inte haft några som helst konkreta förslag på hur man ska vända skolans utveckling"
+* "Det är aldrig roligt att behöva lägga ned en skola."
+* "Oppositionen har inte haft några som helst konkreta förslag på hur man ska vända skolans utveckling"
 
 kommentar AN:  
 Odugliga kommentarer. Lika värda som att säga "Jorden är rund". Hur kan man förvänta sig att oppositionen ska komma med "bättre" förslag (dvs "billigare" enligt majoriteten) med riktigt kort varsel?!

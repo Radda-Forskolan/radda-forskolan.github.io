@@ -40,27 +40,27 @@ Var du engagerad? Är du intresserad att göra det? Nå oss javikan@raddaforskol
 
 # Officiella dokument som gäller Naturskolans avveckling
 
-* 2019-12-17 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2019/2019-12-17/06_Avveckling_Naturskolan/06a_Avveckling_Naturskolan_tjskr.pdf
-* 2019-12-17 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2019/2019-12-17/00_Protokoll_KSVU_2019-12-17.pdf
+* 2019-12-17 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2019/2019-12-17/06_Avveckling_Naturskolan/06a_Avveckling_Naturskolan_tjskr.pdf
+* 2019-12-17 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2019/2019-12-17/00_Protokoll_KSVU_2019-12-17.pdf
 
 # Officiella dokument som gäller utredning av en mobil naturskola
 
-* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-04-28/07_Utredning_mobil_naturskola/07a_Utredning_mobil_naturskola_tjskr.pdf
-* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/08a_Motion_Behåll_och_utveckla_Naturskolan_tjskr.pdf
-* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/08b_Motion_Behåll_och_utveckla_Naturskolan_(S).pdf
-* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/~$tion_Bevara_Naturskolan_tjskr.docx
-* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-04-28/00_Protokoll_KSVU_2020-04-28.pdf
+* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-04-28/07_Utredning_mobil_naturskola/07a_Utredning_mobil_naturskola_tjskr.pdf
+* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/08a_Motion_Behåll_och_utveckla_Naturskolan_tjskr.pdf
+* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/08b_Motion_Behåll_och_utveckla_Naturskolan_(S).pdf
+* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-04-28/08_Motion_Behåll_och_utveckla_Naturskolan/~$tion_Bevara_Naturskolan_tjskr.docx
+* 2020-04-28 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-04-28/00_Protokoll_KSVU_2020-04-28.pdf
 * ---
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/06_Utredning_mobil_naturskola/06a_KSVU_2020-04-28_§24_ärendet_bordlades.pdf
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/06_Utredning_mobil_naturskola/06b_Utredning_mobil_naturskola_tjskr.pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/06_Utredning_mobil_naturskola/06a_KSVU_2020-04-28_§24_ärendet_bordlades.pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/06_Utredning_mobil_naturskola/06b_Utredning_mobil_naturskola_tjskr.pdf
 
 # Officiella dokument som gäller behållning av Naturskolan
 
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07a_KSVU_2020-04-28_§25_ärendet_bordlades.pdf
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07b_Motion_Behåll_och_utveckla_Naturskolan_tjskr.pdf
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07c_Motion_Behåll_och_utveckla_Naturskolan_(S).pdf
-* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-05-19/00_Protokoll_KSVU_2020-05-19.pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07a_KSVU_2020-04-28_§25_ärendet_bordlades.pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07b_Motion_Behåll_och_utveckla_Naturskolan_tjskr.pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/07_Motion_Behåll_och_utveckla_Naturskolan/07c_Motion_Behåll_och_utveckla_Naturskolan_(S).pdf
+* 2020-05-19 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-05-19/00_Protokoll_KSVU_2020-05-19.pdf
 * ---
-* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-09-22/10_Motion_Låt_Naturskolan_fortsätta/10a_tjskr_Motion_Låt_Naturskolan_fortsätta.pdf
-* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-09-22/10_Motion_Låt_Naturskolan_fortsätta/10b_Bilaga1_Motion_Låt_Naturskolan_fortsätta_(MP).pdf
-* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2020/2020-09-22/00_Protokoll_KSVU_2020-09-22.pdf
+* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-09-22/10_Motion_Låt_Naturskolan_fortsätta/10a_tjskr_Motion_Låt_Naturskolan_fortsätta.pdf
+* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-09-22/10_Motion_Låt_Naturskolan_fortsätta/10b_Bilaga1_Motion_Låt_Naturskolan_fortsätta_(MP).pdf
+* 2020-09-22 https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2020/2020-09-22/00_Protokoll_KSVU_2020-09-22.pdf

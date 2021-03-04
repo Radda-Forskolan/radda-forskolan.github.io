@@ -22,11 +22,11 @@
 
 ---
 
-### Khashayar Farmanbar (S) om Skogsgläntans förskolas avveckling, **2018-02-06** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2018/2018-02-06/00_Protokoll_KSVU_2018-02-06.pdf)
+### Khashayar Farmanbar (S) om Skogsgläntans förskolas avveckling, **2018-02-06** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott/2018/2018-02-06/00_Protokoll_KSVU_2018-02-06.pdf)
 
-* "Det är viktigt att ärenden som berör nedläggning av verksamhet får adekvat tid att beredas och också beslutas i kommunstyrelsen."
-* "små enheter är just det som många föräldrar ser som kvalitet."
-* "Det betyder inte att enheternas storlek per automatik innebär ökad eller minskad kvalitet för barnen. Men den subjektiva bedömningen hos föräldrar utgör också en av många komponenter för känslan av kvalitet."
+* "Det är viktigt att ärenden som berör nedläggning av verksamhet får adekvat tid att beredas och också beslutas i kommunstyrelsen."
+* "små enheter är just det som många föräldrar ser som kvalitet."
+* "Det betyder inte att enheternas storlek per automatik innebär ökad eller minskad kvalitet för barnen. Men den subjektiva bedömningen hos föräldrar utgör också en av många komponenter för känslan av kvalitet."
 
 kommentar:  
 Hästhagens förskolas avveckling följer samma mönster med många andrans avvecklingar. Föräldrarna, personalen och oppositionspolitiker fick inte adekvat tid att granska och ifrågasätta förslaget. Fisksätraförskolan fick bara en månads varsel! Sen 2018, det finns inga nya små förskolor i Nacka kommunens planer. De drabbade har aldrig hörts. Ledarna vet bättre, även med bristfälligt underlag, borna borde bara utföra order.

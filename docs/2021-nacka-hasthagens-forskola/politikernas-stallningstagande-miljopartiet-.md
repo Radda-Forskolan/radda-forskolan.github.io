@@ -6,14 +6,14 @@
 
 ---
 
-### Sidney Holm (MP) om Skogsgläntans förskolas avveckling, **2018-02-06** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2018/2018-02-06/00_Protokoll_KSVU_2018-02-06.pdf)
+### Sidney Holm (MP) om Skogsgläntans förskolas avveckling, **2018-02-06** [Sammanträdesprotokoll - Kommunstyrelsens verksamhetsutskott](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2018/2018-02-06/00_Protokoll_KSVU_2018-02-06.pdf)
 
-* "Nedläggning av skolor är beslut som ofta rör upp känslor och vi anser att föräldrarna bör informeras innan själva beslutet fattas."
-* "Miljöpartiet önskar också att berörda föräldrar underrättas innan beslut fattas så att olyckliga överraskningsmoment kan undvikas."
+* "Nedläggning av skolor är beslut som ofta rör upp känslor och vi anser att föräldrarna bör informeras innan själva beslutet fattas."
+* "Miljöpartiet önskar också att berörda föräldrar underrättas innan beslut fattas så att olyckliga överraskningsmoment kan undvikas."
 
-### Sidney Holm (MP) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen//2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
+### Sidney Holm (MP) om Fisksätraskolans förskolas avveckling, **2019-06-03** [Sammanträdesprotokoll - Kommunstyrelsen](https://handlingar.nacka.se/handlingar/Kommunstyrelsen/2019/KS_2019-06-03/00_KS_190603_Protokoll.pdf)
 
-* "Det är ett underbetyg för kommunen som huvudman och ansvarig för utbildning."
+* "Det är ett underbetyg för kommunen som huvudman och ansvarig för utbildning."
 * "mycket kritiska till hur kommunikationen skett"
-* "Hur processen gått till och kommunikationen skett till föräldrar och elever som går i skolan idag är återigen ett underbetyg för kommunen."
-* "En bra, tidig och tydlig dialog med föräldrar är a och o särskilt när det gäller små barn"
+* "Hur processen gått till och kommunikationen skett till föräldrar och elever som går i skolan idag är återigen ett underbetyg för kommunen."
+* "En bra, tidig och tydlig dialog med föräldrar är a och o särskilt när det gäller små barn"

@@ -93,9 +93,9 @@ Det finns en hel del att säga om situationen, men vi har gjort vår bästa att 
 
 Vårt största bekymmer är att **underlaget för beslutet är bristfälligt på flertal punkter** och reflekterar inte verkligheten, samtidigt som **den politiska processen har misskötts**.
 
-Varken personal eller föräldrar har fått veta hur det står till med förskolans ekonomi eller kommunens långsiktiga planer. Tjänsteskrivelsen ([KFKS 2020/1109](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2021/2021-02-09/07_Avveckling_Hästhagens_förskola/07a_Avveckling_Hästhagens_förskola_tjskr.pdf)) bifogades inte i utskicket från rektorn. Det finns ingen remissrunda, utan bara möjlighet att överklaga ett redan taget beslut. Tjänsteskrivelsen saknar bilagor till de påstående som görs. Underlaget och den politiska processen saknar transparens.
+Varken personal eller föräldrar har fått veta hur det står till med förskolans ekonomi eller kommunens långsiktiga planer. Tjänsteskrivelsen ([KFKS 2020/1109](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2021/2021-02-09/07_Avveckling_Hästhagens_förskola/07a_Avveckling_Hästhagens_förskola_tjskr.pdf)) bifogades inte i utskicket från rektorn. Det finns ingen remissrunda, utan bara möjlighet att överklaga ett redan taget beslut. Tjänsteskrivelsen saknar bilagor till de påstående som görs. Underlaget och den politiska processen saknar transparens.
 
-Med referens till [förslaget](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskott//2021/2021-02-09/07_Avveckling_Hästhagens_förskola/07a_Avveckling_Hästhagens_förskola_tjskr.pdf) - Beslutet baseras på
+Med referens till [förslaget](https://handlingar.nacka.se/handlingar/Kommunstyrelsens_verksamhetsutskot/2021/2021-02-09/07_Avveckling_Hästhagens_förskola/07a_Avveckling_Hästhagens_förskola_tjskr.pdf) - Beslutet baseras på
 
 1. Renoveringsbehovet (4-5 miljoner sek) i samband med en kort avskrivningstid
 1. Befolkningsprognos för området Hästhagen
