@@ -6,5 +6,4 @@
 _site
 Gemfile.lock
 node_modules
-diverse/wget.log
 .jekyll-metadata
